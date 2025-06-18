@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I’m a **Prompt Engineer** passionate about build
 
 ## 🌟 Featured Projects
 
-- [Bunkers](https://github.com/Knight00791/bunkers): My pride and joy — check it out to see what I’ve been building!
-- [Zomato Web Clone](https://github.com/Knight00791/zomato-web-clone): A tasty front-end project inspired by Zomato’s design.
+- [Bunkers](https://github.com/Knight00791/Bunkers_app): My pride and joy — check it out to see what I’ve been building!
+- [Zomato Web Clone](https://github.com/Knight00791/Zomato-Clone): A tasty front-end project inspired by Zomato’s design.
 
 ## 🛠️ Tech Stack
 
