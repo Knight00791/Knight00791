@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I’m a **Prompt Engineer** passionate about build
 - 🐍 Python enthusiast — pandas, numpy, matplotlib, seaborn are my playground.
 - 💾 I code in C and SQL, and design with HTML & CSS.
 - 🎯 Intermediate in Dart & Flutter — turning ideas into cross-platform apps.
+- 📊 Tableau user — turning data into eye-catching stories.
 
 ## 🌟 Featured Projects
 
@@ -27,6 +28,7 @@ Welcome to my GitHub profile! I’m a **Prompt Engineer** passionate about build
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 
 ## ✨ Fun Facts
 
