@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nilesh!
 
-Welcome to my GitHub profile! I’m a **Prompt Engineer** passionate about building smart solutions, exploring new tech, and having fun while I’m at it.
+Welcome to my GitHub profile! I’m a **Data Analyst & Prompt Engineer** passionate about building smart solutions, exploring new tech, and having fun while I’m at it.
 
 ## 🚀 About Me
 
